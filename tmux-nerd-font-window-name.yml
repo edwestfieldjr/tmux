@@ -1,3 +1,5 @@
+# Config for: https://github.com/joshmedeski/tmux-nerd-font-window-name
+
 config:
   fallback-icon: "\ue711" # show when no definition is found
   multi-pane-icon: "" # show when window has multiple panes (blank by default)
